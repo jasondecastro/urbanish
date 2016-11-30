@@ -1,0 +1,41 @@
+html {
+  display: table;
+  height: 800px;
+  margin: 0 auto;
+  padding-top: 83px;
+  padding-bottom: 83px;
+  width: 880px;
+}
+
+body {
+  background-color: white;
+  display: table-row;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.wrapper {
+  border: 11px solid #F8DDE1;
+  display: table-cell;
+}
+
+.header {
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding-left: 10px;
+  padding-top: 5px;
+  width: 140px;
+}
+
+.jumbo {
+  display: flex;
+}
+
+.grid {
+  display: block;
+}
+
+.footer {
+  font-size: 12px;
+  padding-top: 20px;
+}
